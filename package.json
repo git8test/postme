@@ -1,0 +1,19 @@
+{
+    "name": "postme",
+    "version": "1.0.0",
+    "description": "Es una aplicacion progresiva",
+    "main": "index.js",
+    "scripts": {
+        "start": "http-server -c-1 ."
+    },
+    "keywords": [
+        "pwa",
+        "postme",
+        "Edteam"
+    ],
+    "author": "bnj",
+    "license": "ISC",
+    "dependencies": {
+        "http-server": "^14.1.1"
+    }
+}
